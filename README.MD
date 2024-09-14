@@ -7,8 +7,9 @@ Mapa que mostram ás melhores atrações em nova york.
 
 🤖 Tecnologias Utilizadas
 
-Microsoft copilot para roteirização;
-Microsoft cplilot para cria esse conteudo 
+Microsoft copilot para roteirização
+
+Microsoft copilot para cria esse conteudo 
 
 🧐 Processo de Criação
 Utilizei o "copilot " para revisar minha pesquisa sobre criaçao desse roteiro, estruturar o conteúdo e refinar minhas ideias.
