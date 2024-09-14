@@ -2,9 +2,11 @@
 NÃO FIQUE PERDIDO COM COPILOT VOCÊ NÃO FICA NA MÃO 
 
 📒 Descrição
+
 Mapa que mostram ás melhores atrações em nova york.
 
 🤖 Tecnologias Utilizadas
+
 Microsoft copilot para roteirização;
 Microsoft cplilot para cria esse conteudo 
 
